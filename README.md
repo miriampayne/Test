@@ -1,6 +1,20 @@
+Project 1
+Build a Meditation/Mindfulness/Yoga Website
+External user’s goal:
+* The site’s users are interested in learning body/mind self-improvement techniques
+Site owner's goal:
+* The goal of the site is to teach users specific body/mind self-improvement techniques
+Potential features to include:
+* Technique categories and supporting information
+* Technique lessons
+* Supporting text/images/video demonstrating the technique
+
+==============================================================================
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome Miriam Payne,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
